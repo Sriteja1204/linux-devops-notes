@@ -27,25 +27,21 @@ cd [directory_path]
 
 Move to a specific directory
 ```bash
-</bash>
 cd Documents
 ```
 
 Move to parent directory
 ```bash
-</bash>
 cd ..
 ```
 
 Move to home directory
 ```bash
-</bash>
 cd ~
 ```
 
 Move to previous directory
 ```bash
-</bash>
 cd -
 ```
 
@@ -74,7 +70,6 @@ cd -
 **Example:**
 
 ```bash
-</bash>
 cd /etc/nginx
 ```
 
@@ -87,7 +82,6 @@ cd /etc/nginx
 **Example:**
 
 ```bash
-</bash>
 cd "My Folder"
 ```
 
