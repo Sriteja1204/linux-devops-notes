@@ -1,18 +1,28 @@
-# Navigation Commands
+## Navigation Commands
 
 This section contains Linux navigation-related commands used to move between directories and identify current working locations.
 
 ---
 
-# Commands Covered
+## Commands Included
 
-- pwd
-- cd
-- ls
+- `pwd` → Print current working directory
+- `cd` → Change directory
+- `ls` → List files and directories
+
+Each command documentation includes:
+
+- Introduction
+- Purpose
+- Syntax
+- Examples
+- Option Explanation
+- Real-Time Usage
+- Important Notes
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 After completing this section, you will understand:
 
