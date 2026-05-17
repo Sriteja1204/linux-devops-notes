@@ -31,37 +31,30 @@ ls
 **Detailed file listing**
 
 ```bash
-</bash>
 ls -l
 ```
 
 **Show hidden files**
 
 ```bash
-</bash>
 ls -a
 ```
 
 **Human-readable file sizes**
 
 ```bash
-<bash>
 ls -lh
 ```
-
 ## Option Explanation
 
-`-l` 	Long listing format
-
-`-a`	Show hidden files
-
-`-h`	Human-readable sizes
-
-`-t`	Sort by modification time
-
-`-r`	Reverse order
-
-`-R`	Recursive listing
+| Option | Description |
+|--------|-------------|
+| `-l` | Long listing format |
+| `-a` | Show hidden files |
+| `-h` | Human-readable sizes |
+| `-t` | Sort by modification time |
+| `-r` | Reverse order |
+| `-R` | Recursive listing |
 
 
 **Real-Time Usage**
@@ -72,7 +65,6 @@ ls -lh
 
 **Example:**
 ```bash
-</bash>
 ls -lh /var/log
 ```
 
@@ -84,7 +76,6 @@ ls -lh /var/log
 **Example:**
 
 ```bash
-</bash>
 ls -lah
 ```
 
