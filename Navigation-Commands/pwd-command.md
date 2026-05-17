@@ -26,7 +26,6 @@ pwd
 **Display current directory**
 
 ```bash
-</bash>
 pwd
 ```
 
@@ -40,7 +39,6 @@ pwd
 **Display physical directory path**
 
 ```bash
-</bash>
 pwd -P
 ```
 
@@ -60,7 +58,6 @@ Helpful during server administration and file management
 **Example:**
 
 ```bash
-</bash>
 cd /var/log
 
 pwd
