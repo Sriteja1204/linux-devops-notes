@@ -20,3 +20,12 @@ Each command documentation includes:
 - Option Explanation
 - Real-Time Usage
 - Important Notes
+
+## Learning Objective
+
+By the end of this document, you will be able to:
+
+- Understand the purpose of the command
+- Use the command with proper syntax
+- Work with commonly used options
+- Apply the command in real-time Linux environments
